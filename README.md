@@ -1,9 +1,22 @@
+# 💫 Hi 👋, I'm Tanishk Jangid 
+
+Email Me 👉 ✉️ Tanishk2300@gmail.com For Collaboration/Project or Anything Else. 😊😊
+
+- 🔭 **I’m currently studing in:** JECRC UNIVERCITY
+- 🌱 **I’m currently learning:** B-tech AI/ML Specialization
+- 📫 **How to reach me:** Tanishk2300@gmail.com
+- 😄 **Pronouns:** Tanishk 
+- ⚡ **Fun fact:** Being a Dimond spark 
 # 💫 About Me:
 I'm a CS major focused exploring Machine Learning , Artificial intelligence.<br>Focused on Python, Machine Learning and MySQL for data-driven AI applications.<br>I use GitHub to document my learning and track consistent progress.<br>I value clean code, readability, and continuous improvement.<br>Learning today, building daily, and growing skills.<br>
 
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/07_tanishk) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tanishk-jangid-90052127b) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/u/PersonalChest2852) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@tanishk2300Th) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Tanishk2300@gmail.com) 
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
