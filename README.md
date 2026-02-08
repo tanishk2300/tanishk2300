@@ -26,8 +26,6 @@ I'm a CS major focused exploring Machine Learning , Artificial intelligence.<br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tanishk2300&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=tanishk2300&theme=transparent&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=tanishk2300&theme=transparent&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=tanishk2300&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
@@ -35,8 +33,10 @@ I'm a CS major focused exploring Machine Learning , Artificial intelligence.<br>
 ---
 [![](https://visitcount.itsvg.in/api?id=tanishk2300&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
----
-[![](https://visitcount.itsvg.in/api?id=tanishk2300&icon=2&color=0)](https://visitcount.itsvg.in)
 
+
+
+
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
