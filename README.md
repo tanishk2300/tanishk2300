@@ -3,7 +3,7 @@
 Email Me 👉 ✉️ Tanishk2300@gmail.com For Collaboration/Project or Anything Else. 😊😊
 
 - 🔭 **I’m currently studing in:** JECRC UNIVERCITY
-- 🌱 **I’m currently learning:** B-tech AI/ML Specialization
+- 🌱 **I’m currently learning:** B-tech AI/ML Specialization IBM
 - 📫 **How to reach me:** Tanishk2300@gmail.com
 - 😄 **Pronouns:** Tanishk 
 - ⚡ **Fun fact:** Being a Dimond spark 
