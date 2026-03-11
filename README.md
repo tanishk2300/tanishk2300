@@ -22,7 +22,7 @@ I'm a CS major focused exploring Machine Learning , Artificial intelligence.<br>
 <tr>
 <td align="center">
 
-<img src="https://github-readme-stats-eight-bay-67.vercel.app/api?username=Tanishk&theme=aura&hide_border=false&include_all_commits=true&count_private=true" height="200"/>
+<img src="https://github-readme-stats-eight-bay-67.vercel.app/api?username=Tanishk2300&theme=aura&hide_border=false&include_all_commits=true&count_private=true" height="200"/>
 
 </td>
 <td align="center">
@@ -35,12 +35,12 @@ I'm a CS major focused exploring Machine Learning , Artificial intelligence.<br>
 <tr>
 <td align="center">
 
-<img src="https://github-readme-stats-eight-bay-67.vercel.app/api/top-langs/?username=tanishk&theme=aura&hide_border=false&layout=compact" height="200"/>
+<img src="https://github-readme-stats-eight-bay-67.vercel.app/api/top-langs/?username=tanishk2300&theme=aura&hide_border=false&layout=compact" height="200"/>
 
 </td>
 <td align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=tanishk&theme=github-compact&hide_border=true" height="200"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=tanishk2300&theme=github-compact&hide_border=true" height="200"/>
 
 </td>
 </tr>
@@ -48,6 +48,11 @@ I'm a CS major focused exploring Machine Learning , Artificial intelligence.<br>
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
+
+---
+[![](https://visitcount.itsvg.in/api?id=tanishk2300&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
