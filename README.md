@@ -27,7 +27,7 @@ I'm a CS major focused exploring Machine Learning , Artificial intelligence.<br>
 </td>
 <td align="center">
 
-<img src="https://streak-stats.demolab.com?user=Tanishk&theme=aura&hide_border=false" height="200"/>
+<img src="https://streak-stats.demolab.com?user=Tanishk2300&theme=aura&hide_border=false" height="200"/>
 
 </td>
 </tr>
