@@ -22,12 +22,12 @@ I'm a CS major focused exploring Machine Learning , Artificial intelligence.<br>
 <tr>
 <td align="center">
 
-<img src="https://github-readme-stats-eight-bay-67.vercel.app/api?username=Tanishk2300&theme=aura&hide_border=false&include_all_commits=true&count_private=true" height="200"/>
+<img src="https://github-readme-stats-eight-bay-67.vercel.app/api?username=tanishk2300&theme=aura&hide_border=false&include_all_commits=true&count_private=true" height="200"/>
 
 </td>
 <td align="center">
 
-<img src="https://streak-stats.demolab.com?user=Tanishk2300&theme=aura&hide_border=false" height="200"/>
+<img src="https://streak-stats.demolab.com?user=tanishk2300&theme=aura&hide_border=false" height="200"/>
 
 </td>
 </tr>
